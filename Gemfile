@@ -60,3 +60,7 @@ gem 'devise'
 gem 'devise-bootstrap-views'
 gem 'twitter-bootstrap-rails'
 gem 'jquery-rails'
+
+gem 'carrierwave'
+gem 'mini_magick'
+gem 'fog'
